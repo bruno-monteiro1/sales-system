@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# npm
+npm-debug.log
+*.log
+*.lock
+*.sqlite
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Adonis-specific
+.env
+
+# Compiled output
+/build
+/public/assets
+
+# Dependency directories
+jspm_packages/
